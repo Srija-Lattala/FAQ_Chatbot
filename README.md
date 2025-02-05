@@ -43,9 +43,6 @@ The chatbot currently supports these questions:
 - What is a function in Python?
 - What is a list in Python?
 
-## Preview
-![Chatbot Preview](assets/chatbot-preview.png)
-
 ## Future Enhancements
 - Add more topics and FAQs.
 - Improve answer quality with advanced APIs.
